@@ -1,0 +1,12 @@
+header {
+    background-color:red;
+}
+.btn-secondary {
+    color:white;
+    background-color:Red;
+    border-color: white;
+}
+.card-body{
+    background-color: white;
+}
+
